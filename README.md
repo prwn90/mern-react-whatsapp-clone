@@ -1,2 +1,2 @@
 # mern-react-whatsapp-clone
-MERN React Whatsapp chat app clone by clever programmer.
+MERN Full Stack React Whatsapp chat app clone by clever programmer.
